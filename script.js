@@ -6,10 +6,6 @@
     var mediumImage = data.results[0].picture.medium;
     var thumnilImage = data.results[0].picture.large;
 
-    // console.log(largeImage);
-    // console.log(mediumImage);
-    // console.log(thumnilImage);
-
    var img1 = document.querySelector("#a");
    var img2 = document.querySelector("#b");
    var img3 = document.querySelector("#c");
